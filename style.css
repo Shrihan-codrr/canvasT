@@ -1,0 +1,9 @@
+.back_ground{
+  background-image: url("bg1.jpg");
+  background-position: center;
+  background-size: cover;
+}
+#my_canvas{
+  border: 5px ridge green;
+  background-color: white;
+}
